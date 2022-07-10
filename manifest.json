@@ -1,0 +1,13 @@
+{
+    
+    "manifest_version":3,
+    "version":"2.1",
+    "name":"WebLink Saver",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
